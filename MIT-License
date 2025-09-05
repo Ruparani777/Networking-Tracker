@@ -1,0 +1,9 @@
+
+---
+
+## **4️⃣ Optional: Add Colab Notebook**
+- Save your Python code in a `.ipynb` file and include it in the repo.  
+- You can add a badge in README for “Open in Colab”:  
+
+```markdown
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK)
